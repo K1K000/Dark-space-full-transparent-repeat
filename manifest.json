@@ -6,6 +6,9 @@
     "images": {
       "theme_frame": "img/background.gif"
     },
+    "properties": {
+      "additional_backgrounds_tiling": ["repeat-x"]
+    },
     "colors": {
       "button_background_active": "#333333",
       "button_background_hover": "#282828",
